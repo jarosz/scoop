@@ -1,0 +1,8 @@
+{
+	"version": "1.1.5",
+	"url": "https://github.com/spikespaz/search-deflector/releases/download/1.1.5/SearchDeflector-Installer.exe",
+	"hash": "7d0e210917a8005815868a9a34e15157a60bfd3560e8fca04832811da0aabeb3",
+	"installer": {
+		"keep": true
+	}
+}
